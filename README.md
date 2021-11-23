@@ -16,7 +16,7 @@ Few factors were about :
 <li>Age</li>
 <li>Gender</li>
 <li>Type of diseases they are suffering</li>
-<li>Etc..</li>
+<li>Etc...</li>
 </ul>
 <br>
 After the getting the insights we built few machine learning models like,
